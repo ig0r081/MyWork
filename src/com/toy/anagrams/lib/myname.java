@@ -10,5 +10,5 @@ package com.toy.anagrams.lib;
  * @author игорь
  */
 public class myname {
-    
+    //фываыафа
 }
