@@ -177,4 +177,3 @@ final class StaticWordLibrary extends WordLibrary {
 
 }
 //Коментарий
-//Коментарий1
